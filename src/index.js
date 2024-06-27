@@ -9,7 +9,6 @@ import ShopContextProvider from './Context/ShopContext';
 import App from './App'
 import Footer from './Commponents/Footer/Footer';
 
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
